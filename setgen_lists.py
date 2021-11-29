@@ -1,0 +1,177 @@
+#Set generator Lists
+
+
+
+# adjective (the mood is X)
+mood = ['surreal',
+        'vigilant',
+        'ecstatic',
+        'admirable',
+        'terrifying',
+        'amazing',
+        'mournful',
+        'hateful',
+        'enraging',
+        'irritating',
+        'arousing',
+        'serene',
+        'accepting',
+        'apprehensive',
+        'distracting',
+        'pensive',
+        'frustrating',
+        'joyful',
+        'calm',
+        'disgusting'
+    ]
+
+#living here is X
+survival = ['bleak',
+            'barren',
+            'harsh',
+            'humdrum',
+            'good',
+            'desirable',
+            'great',
+            'amazing',
+            'utopian'
+    ]
+
+climate = ['polar',
+           'subpolar',
+           'cold temperate',
+           'warm temperate',
+           'subtropical',
+           'tropical'
+           ]
+
+#dominated by X
+landscape = ['a river',
+             'a lake',
+             'a wetland',
+             'the ocean',
+             'a sea',
+             'a reef',
+             'islands',
+             'a beach',
+             'sea cliffs',
+             'an estuary',
+             'dunes',
+             'plains',
+             'rolling hills',
+             'flood plains',
+             'small streams',
+             'rocky outcrops',
+             'steep hills',
+             'woodlands',
+             'forests',
+             'grasslands',
+             'badlands',
+             'a low mountain',
+             'mountain ranges',
+             'a steep mountain',
+             'an active volcano',
+             'a dormant volcano',
+             'an extinct volcano',
+             'a peninsula',
+             'a bay',
+             'a cove',
+             'a fjord',
+             'a glacier',
+             'salt flats',
+             'geothermal pools',
+             'braided rivers'
+
+    ]
+
+population = ['non-existent',
+              'little more than hermits',
+              'scattered homesteads',
+              'a one horse town',
+              'a small town',
+              'a town',
+              'a large town',
+              'a small city',
+              'a city',
+              'a large city',
+              'a megacity'
+              ]
+
+wealth = ['impoverished',
+          'poor',
+          'doing okay',
+          'doing well',
+          'rich',
+          'living in luxury'
+          ]
+
+economy = ['resource extraction',
+           'manufacturing',
+           'services',
+           'forestry',
+           'agriculture',
+           'horticulture',
+           'fishing/hunting',
+           'mining',
+           'quarrying',
+           'metal production',
+           'energy production',
+           'building material production',
+           'vehicle production',
+           'high technology production',
+           'construction',
+           'medical care',
+           'religious/cultural services',
+           'retail',
+           'housing',
+           'government services',
+           'the military',
+           'logistics and transport',
+           'tourism'
+           ]
+
+
+quirk = ['secret tunnels',
+         'an ancient wonder of the world',
+         'a natural wonder',
+         'lost treasure',
+         'a fortress',
+         'ruins',
+         'a waste dump',
+         'a laboratory',
+         'a rundown farm',
+         'an old battle site',
+         'a rare animal',
+         'a rare plant',
+         'a government black site',
+         'a bermuda triangle',
+         'a seat of government',
+         'a place of learning',
+         'a hub of industry',
+         'a hub of trade',
+         'a monument',
+         'cave paintings',
+         'rare natural resources',
+         'rumors of a mythic creature',
+         'a strategic road',
+         'old mines',
+         'fossils',
+         'sacred cultural sites',
+         'a burial ground',
+         'the home of a famous person',
+         'a meeting house',
+         'a playground',
+         'a lovers lane',
+         'a museum',
+         'a place of worship',
+         'the worlds biggest [_insert novelty item here_]',
+         'a tower',
+         'a very deep hole',
+         'an ancient forest',
+         'horrible weather',
+         'lovely weather',
+         'a terrible reputation',
+         'a good reputation'
+         
+         ]
+
